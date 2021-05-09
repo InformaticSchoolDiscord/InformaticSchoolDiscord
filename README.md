@@ -8,7 +8,7 @@
 <h1>Stats 📊</h1><br>
 
 <a href="https://github.com/InformaticSchoolDiscord">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SickleTM&show_icons=true&theme=dark&?count_private=true&include_all_commits=true" width="480">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=InformaticSchoolDiscord&show_icons=true&theme=dark&?count_private=true&include_all_commits=true" width="480">
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InformaticSchoolDiscord&layout=compact&theme=dark" width="420">
