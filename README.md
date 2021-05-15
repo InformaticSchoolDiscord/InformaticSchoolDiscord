@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/ff/33/a7/ff33a78acaf6a7a0e34324ff8873ab3b.jpg" width="420">
+<img src="https://cdn.discordapp.com/attachments/824038916062838784/843160258150400010/logo_info.png" width="420">
 
 <h1>How to contact Informatic School ?</h1>
 <br>
